@@ -4,7 +4,7 @@ This project is a Python-based command-line tool for summarizing long text input
 
 ## Kaggle Writeup
 
-- https://kaggle.com/competitions/agents-intensive-capstone-project/writeups/ai-doc-summarizer
+-- https://kaggle.com/competitions/agents-intensive-capstone-project/writeups/ai-doc-summarizer
 
 ## Overview
 
